@@ -5,6 +5,10 @@ import android.util.Log
 class Test {
 
     fun printHello() {
-        Log.d("TAG", "printHello: ")
+        Log.d("TAG", "printHello: 6")
+    }
+
+    fun printGoodMorning() {
+        Log.d("TAG", "printGoodMorning: ")
     }
 }
