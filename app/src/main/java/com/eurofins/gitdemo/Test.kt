@@ -7,4 +7,8 @@ class Test {
     fun printHello() {
         Log.d("TAG", "printHello: 2")
     }
+
+    fun printHi() {
+        Log.d("TAG", "printHi: ")
+    }
 }
