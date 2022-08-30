@@ -15,4 +15,8 @@ class Test {
     fun printHi() {
         Log.d("TAG", "printHi: ")
     }
+
+    fun getDate() {
+        Log.d("TAG", "getDate: Today is 30th")
+    }
 }
